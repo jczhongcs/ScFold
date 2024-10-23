@@ -1,8 +1,6 @@
 __pycache__
-/data/af2db
 /data/cath
 /data/ts
-/data/gcndesign_dataset
 /results
 /mmseqs/*fasta
 /mmseqs/*UP*
